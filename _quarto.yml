@@ -1,5 +1,7 @@
 project:
   title: "Lab_10"
+  output-dir: docs
+  type: website
 format:
   html:
     sef_contained: true
